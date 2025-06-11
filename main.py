@@ -1,7 +1,7 @@
 import init_django_orm  # noqa: F401
 import json
 import os
-
+git add .
 from db.models import Race, Skill, Player, Guild
 from django.utils.timezone import now
 
